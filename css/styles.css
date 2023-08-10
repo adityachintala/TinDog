@@ -25,6 +25,15 @@ body {
     padding: 3% 15%;
 }
 
+footer .container-fluid {
+    text-align: center;
+}
+
+footer i {
+    font-size: 20px;
+    padding: 1rem;
+}
+
 .navbar-brand{
     font-size: 3rem;
     font-weight: 700;
