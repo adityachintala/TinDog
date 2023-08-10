@@ -1,0 +1,148 @@
+#title{
+    width: 100%;
+    background-color: #ff4c68;
+    /* height: 650px; */
+    color: #fff;
+
+}
+
+.dwownload-button{
+    margin: 5%  0;
+}
+
+h1{
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 700;
+}
+
+
+body {
+    font-family: 'Product Sans';
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar-brand{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.navbar{
+    font-size: 1.5rem;
+    padding:0.5rem 0 5% 0;
+}
+
+#iphone-mockup{
+    width:60%;
+}
+
+#features{
+    padding: 3% 15%;
+    z-index: 1;
+    width: 100%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color: #ef8172;
+    padding-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+    transform: rotate(180deg);
+    transition-duration: 1s;
+}
+
+#testimonials{
+    width: 100%;
+    text-align: center;
+    background-color: #ef8172;
+    color : #fff;
+}
+
+.carousel-item{
+    padding: 5% 15%;
+}
+
+#pricing {
+    color :#fff;
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 3% 15%;
+}
+
+.card-deck {
+    padding: 5% 8%;
+    text-align: center;
+}
+.card{
+    border-radius: 1rem;
+    border: 0;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
+    transition: all 0.5s;
+    margin-bottom: 5%;
+}
+
+.card-header {
+    background-color: rgb(58, 57, 57);
+}
+
+.card-body {
+    background-color: rgb(31, 31, 31);
+}
+
+#testimonials h2{
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+#testimonials img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+    width:100%;
+}
+
+#press img{
+    text-align: center;
+    width: 15%;
+    margin: 1.5rem;
+}
+
+#carouselExampleSlidesOnly {
+    padding: 5% 15%;
+    text-align: center;
+}
+
+#cta{
+    background-color: #ef8172;
+    text-align: center;
+    padding: 5% 15%;
+    color: #fff;
+    button {
+        margin-bottom: 0;
+    }
+}
+
+@font-face {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+
